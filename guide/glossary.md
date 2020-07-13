@@ -12,7 +12,9 @@ nav_order: 2
 
 | Term             | Meaning           | Usage     |
 |:-----------------|:------------------|:----------|
-| Term 1           | Meaning with an [external link](https://bitcoin.org){:target="_blank"}. | Usage with a line <br> break.      |
+| Mnemonic           | In blockchains it is a group of easy to remember words – for the generation deterministic wallets. | Other variations you may encournter may be 1. Recovery Phrase<br>
+2. Seed Phrase<br>
+3. Twelve/Twenty-four Word Seed      |
 | Term 2           | Meaning with an [external link](https://bitcoin.org){:target="_blank"}. | Usage with a line <br> break.      |
 | Term 3           | Meaning with an [external link](https://bitcoin.org){:target="_blank"}. | Usage with a line <br> break.      |
 | Term 4           | Meaning with an [external link](https://bitcoin.org){:target="_blank"}. | Usage with a line <br> break.      |
